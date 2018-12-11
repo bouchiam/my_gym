@@ -1,0 +1,2 @@
+
+int nafkhmajdi (int num);

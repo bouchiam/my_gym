@@ -1,0 +1,9 @@
+ID:333
+Nom:amira
+Prénom:benmrad 
+poids:67kg 
+taille:1.69m 
+allergique:non 
+forfait:zumba 
+notes_de_medecin:souffre_d'un
+entorse_au_cheville

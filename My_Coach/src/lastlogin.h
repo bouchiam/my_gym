@@ -1,0 +1,1 @@
+void lastlogin(char login[]);

@@ -1,0 +1,9 @@
+ID:969
+Nom:aymen
+Prénom:makhloufi 
+poids:112 
+taille:1.87m 
+allergique:oui 
+forfait:aerobic 
+notes_de_medecin:il_doit_voir 
+le_dieteticien_prochainement
